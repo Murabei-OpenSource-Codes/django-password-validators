@@ -9,3 +9,6 @@ complexity of users passwords.
     Pumpwood is a native brasilian tree
   </a> which has a symbiotic relation with ants (Murabei)
 </p>
+
+## documentation page
+(https://murabei-opensource-codes.github.io/django-password-validators/pumpwood_django_password_validators.html)
