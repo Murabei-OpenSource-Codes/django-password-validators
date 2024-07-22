@@ -11,4 +11,4 @@ complexity of users passwords.
 </p>
 
 ## documentation page
-(https://murabei-opensource-codes.github.io/django-password-validators/pumpwood_django_password_validators.html)
+Check the docs page [here](https://murabei-opensource-codes.github.io/django-password-validators/pumpwood_django_password_validators.html)
